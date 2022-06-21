@@ -18,6 +18,7 @@ Here is a Simple Registration made using JavaFX.
 ## Short Walkthrough
 
 - Install IntelliJ IDEA setup and leave everything at defaults
-- Download and Paste the code into an desired folder and open the project from IntelliJ
+- Download and Extract REG.zip
+- Paste the code into an desired folder and open the project from IntelliJ
 - Install xampp with mysql.Keep the user as "root" and password as empty.
 - Install MySQL console to manage and view the updates thats take place on database.
